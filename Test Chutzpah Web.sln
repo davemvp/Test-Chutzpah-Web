@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestChutzpahWeb", "TestChutzpahWeb\TestChutzpahWeb.csproj", "{F4C01BF0-9755-45E7-94F2-643CFF33023D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{8E68A3AA-8C9A-48D3-839E-5BADFDC79B15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestChutzpahWeb.Tests.Js", "TestChutzpahWeb.Tests.Js\TestChutzpahWeb.Tests.Js.csproj", "{904D1611-9F4C-4847-9F38-44E673F9F6D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C01BF0-9755-45E7-94F2-643CFF33023D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C01BF0-9755-45E7-94F2-643CFF33023D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C01BF0-9755-45E7-94F2-643CFF33023D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C01BF0-9755-45E7-94F2-643CFF33023D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904D1611-9F4C-4847-9F38-44E673F9F6D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904D1611-9F4C-4847-9F38-44E673F9F6D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904D1611-9F4C-4847-9F38-44E673F9F6D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904D1611-9F4C-4847-9F38-44E673F9F6D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{904D1611-9F4C-4847-9F38-44E673F9F6D3} = {8E68A3AA-8C9A-48D3-839E-5BADFDC79B15}
+	EndGlobalSection
+EndGlobal

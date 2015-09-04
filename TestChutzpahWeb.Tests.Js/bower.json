@@ -1,0 +1,7 @@
+{
+  "name": "ASP.NET",
+  "private": true,
+  "dependencies": {
+    "bardjs": "0.1.8"
+  }
+}
